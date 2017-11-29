@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://ngtt.github.io/"
+languageCode = "ja"
 title = "ngttのブログ"
+canonifyulrs = true
+theme = "beautifulhugo"
